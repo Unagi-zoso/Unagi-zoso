@@ -1,7 +1,7 @@
 ### Hi there 👋
- I'm Unagi_zoso! 
- I'm going to post some **CS knowledges** and **my projects**.
- It's good to see you!
+ I'm Unagi_zoso! <br>
+ I'm going to post some **CS knowledges** and **my projects**.<br>
+ It's good to see you!<br><br>
 
 
 
