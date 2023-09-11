@@ -1,16 +1,11 @@
 ### Hi there 👋
- I'm Unagi_zoso! <br>
- I'm going to post some **CS knowledges** and **my projects**.<br>
- It's good to see you!<br><br>
+ 
+<a href="https://unagi-zoso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-B3D2D5?style=flat&logo=tistory&logoColor=FF3200"/>
+<img src="https://img.shields.io/badge/Unagi.zoso@gmail.com-C61548?style=flat&logo=gmail&logoColor=EEEEEE"/>
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning computer science and  c++ and java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Unagi.zoso@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact:   Unagi means  eel in japanese
+ I'm zoso! <br>
+ I'm currently working on backend skills and collaboration knowledge. <br>
+ I am interested in Java, Spring, and Problem solving. <br>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unagi-zoso&show_icons=true&theme=radical)
 
