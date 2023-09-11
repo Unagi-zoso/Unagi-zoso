@@ -5,7 +5,7 @@
 
  I'm zoso! <br>
  I'm currently working on backend skills and collaboration knowledge. <br>
- I am interested in Java, Spring, and Problem solving. <br>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unagi-zoso&show_icons=true&theme=radical)
+ I am interested in Java, Spring, and Problem solving. <br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unagi_zoso)](https://solved.ac/unagi_zoso/) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unagi-zoso&show_icons=true&theme=radical) 
 
