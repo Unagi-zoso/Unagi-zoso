@@ -5,10 +5,10 @@
 <br>
 
 ### 중요시 여기는 것
-**존중** : 존중으로 만들어진 환경에서 얼마나 높은 생산성과 만족감이 나올 수 있는 지 알고 있습니다.<br>
+**존중** : 서로 존중하는 환경이 얼마나 구성원들을 성장시키고 제품의 수준을 높을 수 있는지 알고 있습니다.<br>
 **회고** : 귀중한 실패를 가치있게 만들기 위해선 반드시 회고가 필요하다 생각합니다.<br>
 **Critical Thinking** : 표면적인 문제에만 집중하지 않고 여러 각도에서 문제를 바라볼 때 새로운 돌파구를 찾을 수 있었습니다.<br>
-**Winning Mentality** : 삶은 책임이 따르고 이 책임이 커질 수록 두렵기 마련입니다. 늘 어떠한 역경도 이겨낼 수 있다는 정신이 필요합니다.<br>
+**Winning Mentality** : 삶은 책임이 따르고 이 책임이 커질수록 두렵기 마련입니다. 늘 어떠한 역경도 이겨낼 수 있다는 정신이 필요합니다.<br>
 <br>
 
 ### 관심있는 기술
@@ -21,12 +21,12 @@
 
 ### 참고 정보
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-	<a href="https://velog.io/@ziggy_stardust/posts" target="_blank"><img src="https://img.shields.io/badge/BLOG-B3D2D5?style=flat&logo=velog&logoColor=#20C997"/>
-	<a href="https://unagi-zoso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-B3D2D5?style=flat&logo=tistory&logoColor=FF3200"/>
+	<a href="https://velog.io/@ziggy_stardust/posts" target="_blank"><img src="https://img.shields.io/badge/BLOG-F0F0F0?style=flat&logo=velog&logoColor=#20C997"/>
+	<a href="https://unagi-zoso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-F0F0F0?style=flat&logo=tistory&logoColor=FF3200"/>
 	<a><img src="https://img.shields.io/badge/Unagi.zoso@gmail.com-C61548?style=flat&logo=gmail&logoColor=EEEEEE"/>
 </div>
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unagi-zoso&show_icons=true&theme=radical)
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unagi_zoso)](https://solved.ac/unagi_zoso/)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unagi_zoso)](https://solved.ac/unagi_zoso/)
 
 <!--[![An image of @unagizoso's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unagizoso)](https://holopin.io/@unagizoso)-->
