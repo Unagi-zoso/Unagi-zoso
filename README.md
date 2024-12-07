@@ -15,6 +15,7 @@
 **주로 사용하는 기술**
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+	<img src="https://img.shields.io/badge/Java-ED8D00?style=for-the-badge&logo=openjdk&logoColor=white">
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 	<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 	<br>
